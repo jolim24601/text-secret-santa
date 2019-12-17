@@ -1,0 +1,11 @@
+{
+  "name": "secretsanta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jolim24601/text-secret-santa.git",
+  "author": "John Lim <john@selfmade.co>",
+  "license": "MIT",
+  "dependencies": {
+    "twilio": "^3.39.0"
+  }
+}
